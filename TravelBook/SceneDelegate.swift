@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  TravelBook
 //
-//  Created by Ebubekir Aykut on 24.09.2021.
+//  Created by Furkan Aykut on 26.09.2021.
 //
 
 import UIKit
